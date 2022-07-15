@@ -1,7 +1,7 @@
 {
-  "DraftMessagesSectionTitle": "Draft messages",
-  "SentMessagesSectionTitle": "Sent messages",
-  "EmptyDraftMessages": "You have no draft messages.",
+  "DraftMessagesSectionTitle": "Draft messages CUSTOM",
+  "SentMessagesSectionTitle": "Sent messages CUSTOM",
+  "EmptyDraftMessages": "You have no draft messages ARTIST.",
   "EmptySentMessages": "You have no sent messages.",
   "TitleText": "Title",
   "PlaceHolderTitle": "Title (required)",

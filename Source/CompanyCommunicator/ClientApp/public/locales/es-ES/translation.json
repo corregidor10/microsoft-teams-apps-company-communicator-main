@@ -1,7 +1,7 @@
 {
-  "DraftMessagesSectionTitle": "Borradores de mensajes",
-  "SentMessagesSectionTitle": "Mensajes enviados",
-  "EmptyDraftMessages": "No tiene borradores de mensajes.",
+  "DraftMessagesSectionTitle": "Borradores de mensajes creados",
+  "SentMessagesSectionTitle": "Mensajes enviados por mi",
+  "EmptyDraftMessages": "No tiene borradores de mensajes, disfrute.",
   "EmptySentMessages": "No tiene mensajes enviados.",
   "TitleText": "Título",
   "PlaceHolderTitle": "Título (obligatorio)",
